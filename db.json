@@ -1,67 +1,6 @@
 {
     "group":"1261-10-1",
-    "lessons":[
-     {
-       "dayofweek": "Monday",
-       "one": "ОП Е-321",
-       "two": "",
-       "three": "Физ. Воспитание",
-       "four": "",
-       "five": "ТМО л+л.з И-349",
-       "six": "ТМО л+л.з И-349",
-       "seven": ""
-     },
-     {
-       "dayofweek": "Tuesday",
-       "one": "",
-       "two": "ЭиЭ Л-125",
-       "three": "МЖиГ Е-203",
-       "four": "ЭиЭ (л) Д-236",
-       "five": "ОП (л) Л-223",
-       "six": "СМ Л-107а",
-       "seven": ""
-     },
-     {
-       "dayofweek": "Wednesday",
-       "one": "",
-       "two": "ТД л+пр А-25",
-       "three": "",
-       "four": "",
-       "five": "",
-       "six": "",
-       "seven": ""
-     },
-     {
-       "dayofweek": "Thursday",
-       "one": "Военная подготовка",
-       "two": "",
-       "three": "Физ. Воспитание",
-       "four": "",
-       "five": "",
-       "six": "",
-       "seven": ""
-     },
-     {
-       "dayofweek": "Friday",
-       "one": "",
-       "two": "",
-       "three": "ТММ Е-318",
-       "four": "МЖиГ (л) Е-203",
-       "five": "ПАХТ (л) Е-203",
-       "six": "ПАХТ Е-109",
-       "seven": ""
-     },
-     {
-       "dayofweek": "Saturday",
-       "one": "",
-       "two": "",
-       "three": "",
-       "four": "",
-       "five": "",
-       "six": "",
-       "seven": ""
-     }
- 	 ]
+  
 }
   
 
