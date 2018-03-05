@@ -1,28 +1,127 @@
-{
-  "data": [{
-    "type": "articles",
-    "id": "1",
-    "attributes": {
-      "title": "JSON API paints my bikeshed!",
-      "body": "The shortest article. Ever.",
-      "created": "2015-05-22T14:56:29.000Z",
-      "updated": "2015-05-22T14:56:28.000Z"
-    },
-    "relationships": {
-      "author": {
-        "data": {"id": "42", "type": "people"}
-      }
-    }
-  }],
-  "included": [
-    {
-      "type": "people",
-      "id": "42",
-      "attributes": {
-        "name": "John",
-        "age": 80,
-        "gender": "male"
-      }
-    }
-  ]
-}
+  {
+  "12-1":[
+     {
+       "dayofweek": "Monday",
+       "one": "ОП Е-321",
+       "two": "",
+       "three": "Физ. Воспитание",
+       "four": "",
+       "five": "ТМО л+л.з И-349",
+       "six": "ТМО л+л.з И-349",
+       "seven": ""
+     },
+     {
+       "dayofweek": "Tuesday",
+       "one": "",
+       "two": "ЭиЭ Л-125",
+       "three": "МЖиГ Е-203",
+       "four": "ЭиЭ (л) Д-236",
+       "five": "ОП (л) Л-223",
+       "six": "СМ Л-107а",
+       "seven": ""
+     },
+     {
+       "dayofweek": "Wednesday",
+       "one": "",
+       "two": "ТД л+пр А-25",
+       "three": "",
+       "four": "",
+       "five": "",
+       "six": "",
+       "seven": ""
+     },
+     {
+       "dayofweek": "Thursday",
+       "one": "Военная подготовка",
+       "two": "",
+       "three": "Физ. Воспитание",
+       "four": "",
+       "five": "",
+       "six": "",
+       "seven": ""
+     },
+     {
+       "dayofweek": "Friday",
+       "one": "",
+       "two": "",
+       "three": "ТММ Е-318",
+       "four": "МЖиГ (л) Е-203",
+       "five": "ПАХТ (л) Е-203",
+       "six": "ПАХТ Е-109",
+       "seven": ""
+     },
+     {
+       "dayofweek": "Saturday",
+       "one": "",
+       "two": "",
+       "three": "",
+       "four": "",
+       "five": "",
+       "six": "",
+       "seven": ""
+     }
+ 	 ],
+
+     "12-2":[
+     {
+       "dayofweek": "Monday",
+       "one": "ОП Е-321",
+       "two": "",
+       "three": "Физ. Воспитание",
+       "four": "",
+       "five": "ТМО л+л.з И-349",
+       "six": "ТМО л+л.з И-349",
+       "seven": ""
+     },
+     {
+       "dayofweek": "Tuesday",
+       "one": "",
+       "two": "ЭиЭ Л-125",
+       "three": "МЖиГ Е-203",
+       "four": "ЭиЭ (л) Д-236",
+       "five": "ОП (л) Л-223",
+       "six": "СМ Л-107а",
+       "seven": ""
+     },
+     {
+       "dayofweek": "Wednesday",
+       "one": "",
+       "two": "ТД л+пр А-25",
+       "three": "",
+       "four": "",
+       "five": "",
+       "six": "",
+       "seven": ""
+     },
+     {
+       "dayofweek": "Thursday",
+       "one": "Военная подготовка",
+       "two": "",
+       "three": "Физ. Воспитание",
+       "four": "",
+       "five": "",
+       "six": "",
+       "seven": ""
+     },
+     {
+       "dayofweek": "Friday",
+       "one": "",
+       "two": "",
+       "three": "ТММ Е-318",
+       "four": "МЖиГ (л) Е-203",
+       "five": "ПАХТ (л) Е-203",
+       "six": "ПАХТ Е-109",
+       "seven": ""
+     },
+     {
+       "dayofweek": "Saturday",
+       "one": "",
+       "two": "",
+       "three": "",
+       "four": "",
+       "five": "",
+       "six": "",
+       "seven": ""
+     }
+   ]
+   }
