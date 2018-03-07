@@ -1,1554 +1,4 @@
 {
-  "1241-13-2": [
-    {
-      "three": "",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "УИБ (л) И-107",
-      "two": "",
-      "four": "",
-      "seven": "УИБ (л) И-107",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "СЗИиВСМ 1-7н И-204",
-      "six": "СЗИиВСМ 1-7н И-204",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Wednesday",
-      "five": "СЗИиВСМ л.з И-204",
-      "six": "СЗИиВСМ л.з И-204",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "ЗИС (л) И-107",
-      "two": "",
-      "four": "",
-      "seven": "ЗИС (л) И-107",
-      "one": ""
-    },
-    {
-      "three": "УИБ л.з И-107",
-      "dayofweek": "Saturday",
-      "five": "ЗОС л.з И-107",
-      "six": "ЗОС л.з И-107",
-      "two": "УИБ л.з И-107",
-      "four": "ЗОС л.з И-107",
-      "seven": "",
-      "one": "УИБ л.з И-107"
-    }
-  ],
-  "1261-13-2": [
-    {
-      "three": "Физ. Воспитание",
-      "dayofweek": "Monday",
-      "five": "ТВиМС ДГТВиМС л+пр Д-507",
-      "six": "ТВиМС ДГТВиМС л+пр Д-507",
-      "two": "",
-      "four": "Ин. Яз Г-502",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "ЭиСТ (л) Л-127",
-      "six": "ДМ пр Д-229",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "БЖД 2,4,6,8н л А-134",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "БЖД А-134",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Физ. Воспитание",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "СиСПД л+л.з И-221",
-      "dayofweek": "Friday",
-      "five": "ТСО л+л.з П-7",
-      "six": "ТСО л+л.з П-7",
-      "two": "СиСПД л+л.з И-221",
-      "four": "ТЗИ л+л.з И-204",
-      "seven": "",
-      "one": "СиСПД л+л.з И-221"
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "Документоведение 1-9н л+пр И-211",
-      "six": "Документоведение 1-9н л+пр И-211",
-      "two": "",
-      "four": "Документоведение 1-9н л+пр И-211",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1271-15-1": [
-    {
-      "three": "",
-      "dayofweek": "Monday",
-      "five": "Инф. 10-18н пр Д-229",
-      "six": "",
-      "two": "",
-      "four": "Инф. пр Д-229",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "ОИБ пр И-107",
-      "six": "",
-      "two": "Физ. Воспитание ",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Инф. (л) Д-507",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "Мат.анал. пр Д-507",
-      "four": "Ин. Яз Г-каф",
-      "seven": "",
-      "one": "Мат.анал. пр Д-504а"
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "Физика (л) Л-209",
-      "six": "Языки програм. (л) Д-507",
-      "two": "",
-      "four": "Языки програм. 1-14н пр Д-507а",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "ТиМП пр Д-504а",
-      "six": "Культ. пр Д-102",
-      "two": "Физ. Воспитание ",
-      "four": "ТиМП (л) Д-504а",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Физика Д-112,117"
-    }
-  ],
-  "1251-13-1": [
-    {
-      "three": "ПЗИ пр И-204",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "ПЗИ (л) И-204",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "КИС и УИПР по графику И-107",
-      "dayofweek": "Wednesday",
-      "five": "КИС и УИПР по графику И-107",
-      "six": "",
-      "two": "КИС 1-9н, УИПР 10-18н (л) И-204 ",
-      "four": "КИС и УИПР по графику И-107",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "МСС л.з И-204",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "МСС (л) И-204",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "АИС л+пр+л.з И-204",
-      "six": "АИС л+пр+л.з И-204",
-      "two": "ОПОИБ л+л.з И-204",
-      "four": "Физ. Воспитание",
-      "seven": "АИС л+пр+л.з И-204",
-      "one": "ОПОИБ л+л.з И-204"
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1241-12-2": [
-    {
-      "three": "",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "ОСАПР л.з. И-351а",
-      "four": "",
-      "seven": "",
-      "one": "ОСАПР л.з. И-351а"
-    },
-    {
-      "three": "ОТЭ И-349",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "ОХЗ И-336",
-      "four": "ОТЭ И-349",
-      "seven": "",
-      "one": "ОХЗ И-336"
-    },
-    {
-      "three": "",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "БЖД 7-9н л.з. А-115",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "БЖД 7-9н л.з. А-115",
-      "four": "БЖД 7-9н л.з. А-115",
-      "seven": "БЖД 1-6н (л) А-134",
-      "one": "БЖД 7-9н л.з. А-115"
-    },
-    {
-      "three": "ОЗОС И-349",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "ОЗОС И-349",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1261-34-2": [
-    {
-      "three": "Физ. Воспитание",
-      "dayofweek": "Monday",
-      "five": "ФХ, ДГФХ А-310",
-      "six": "ФХ, ДГФХ А-310",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Ин. Яз Г-каф",
-      "dayofweek": "Tuesday",
-      "five": "ПАХТ (л) Е-214",
-      "six": "ЭиЭ Л-127",
-      "two": "",
-      "four": "Философия (л) Д-236",
-      "seven": "ЭиЭ Л-127",
-      "one": ""
-    },
-    {
-      "three": "ДМ (л) Л-223",
-      "dayofweek": "Wednesday",
-      "five": "ТТиТ А-37",
-      "six": "",
-      "two": "Философия Д-104",
-      "four": "",
-      "seven": "",
-      "one": "Пахт Е-203"
-    },
-    {
-      "three": "Физ. Воспитание",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "ФХ, ДГФХ 1-14н (л) А-328",
-      "six": "",
-      "two": "КХ А-240",
-      "four": "КХ (л) А-328",
-      "seven": "",
-      "one": "КХ А-240"
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1271-13-2": [
-    {
-      "three": "Физика пр Д-110",
-      "dayofweek": "Monday",
-      "five": "Инф. 10-18н пр Д-229",
-      "six": "",
-      "two": "",
-      "four": "Инф. пр Д-229",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "ОИБ (л) И-211",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "Физ. Воспитание ",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Инф. (л) Д-507",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Ин. Яз Г-каф",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "Языки програм. (л) Д-505",
-      "six": "Культ. (л) Д-102а",
-      "two": "ОИБ пр И-107",
-      "four": "Языки програм. 1-14н пр Д-507а",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "ТиМП пр Д-504а",
-      "six": "ТиМП 1-9н пр Д-507а",
-      "two": "Физ. Воспитание ",
-      "four": "ТиМП (л) Д-504а",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "Физика Д-112,117",
-      "four": "",
-      "seven": "",
-      "one": "Физика Д-112,117"
-    }
-  ],
-  "1271-12-1": [
-    {
-      "three": "",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "ТКМ Е-116",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Физика 1-12н Д-117",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "Матем. Д-505",
-      "four": "ИТ Д-520",
-      "seven": "",
-      "one": "ТКМ (л) Л-223"
-    },
-    {
-      "three": "Ин. Яз Г-526",
-      "dayofweek": "Thursday",
-      "five": "Философия 1-12н (л) Л-217",
-      "six": "Философия 1-12н Л-119",
-      "two": "",
-      "four": "Матем. (л) Л-209",
-      "seven": "Физика 1-15н пр Д-110",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "Физика (л) Л-209",
-      "six": "ИГ Д-503",
-      "two": "Физ. Воспитание",
-      "four": "",
-      "seven": "ТМ Д-203",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1251-11-2": [
-    {
-      "three": "",
-      "dayofweek": "Monday",
-      "five": "МССр 10-18н И-108",
-      "six": "",
-      "two": "ПАХТ Е-101",
-      "four": "МССр 10-18н И-108",
-      "seven": "",
-      "one": "ПАХТ Е-101"
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "МССр 10-18н (л) Л-223",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "ПАХТ 1-9н (л) Л-223",
-      "four": "ХСиЗотК л+пр И-351а",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "ХСиЗотК 1-4н л.з И-336, ОТЭНМ 5-6н И-255, ОТЭНМ 8-9н УОП, ОТЭНМ 10-11н И-232, ОТЭНМ 13-15н И-246",
-      "six": "ОТЭНМ (л) И-207",
-      "two": "Выч. мат Д-526",
-      "four": "ХСиЗотК 1-4н л.з И-336, ОТЭНМ 5-6н И-255, ОТЭНМ 8-9н УОП, ОТЭНМ 10-11н И-232, ОТЭНМ 13-15н И-246",
-      "seven": "",
-      "one": "Выч. мат (л) Л-223"
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "ДСиПЯ (л) А-405",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "ДСиПЯ А-240",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "ДСиПЯ А-240",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1251-12-2": [
-    {
-      "three": "ХСиЗ И-336",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "ХСиЗ И-336",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "ОХЗ И-336",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "ПЭД л+пр.з И-336",
-      "four": "ОХЗ И-336",
-      "seven": "",
-      "one": "ПЭД л+пр.з И-336"
-    },
-    {
-      "three": "ПНВ И-349",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "ХСиЗ (л) И-349",
-      "four": "ПНВ И-349",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1261-10-2": [
-    {
-      "three": "Физ. Воспитание",
-      "dayofweek": "Monday",
-      "five": "ТМО л+л.з И-349",
-      "six": "ТМО л+л.з И-349",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Ин. Яз Г-513"
-    },
-    {
-      "three": "МЖиГ Е-203",
-      "dayofweek": "Tuesday",
-      "five": "ОП (л) Л-223",
-      "six": "",
-      "two": "",
-      "four": "СМ (л) Л-105",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "ТД л+пр А-25",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "ТД л+пр А-25",
-      "four": "УЦП л+пр В-101",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Физ. Воспитание",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "ТММ Е-318",
-      "dayofweek": "Friday",
-      "five": "ПАХТ (л) Е-203",
-      "six": "ПАХТ Е-109",
-      "two": "",
-      "four": "ТММ (л) Л-223",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1241-34-1": [
-    {
-      "three": "",
-      "dayofweek": "Monday",
-      "five": "СОИУП пр Е-209",
-      "six": "ИТвХП (л) Д-526",
-      "two": "",
-      "four": "ИТ Д-519",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "МСС 1-5н И-108",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "УООС л+пр И-345",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "УООС л+пр И-345",
-      "four": "МСС (л) И-209",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "ТОГ 1-6н л.з И-173",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "ТОГ (л) И-173",
-      "four": "ТОГ 1-6н л.з И-173",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1241-32-1": [
-    {
-      "three": "ЭиППП 1-9н пр И-173",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "ИТвХП Д-526",
-      "two": "",
-      "four": "ЭиППП (л) 1-5н И-345",
-      "seven": "ИТ Д-526",
-      "one": ""
-    },
-    {
-      "three": "ПЭ 1-6н л.з И-273",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "ПЭ 1-6н л.з И-273",
-      "four": "ПЭ 1-6н л.з И-273",
-      "seven": "",
-      "one": "ПЭ (л) И-211"
-    },
-    {
-      "three": "",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "МСС (л) И-209",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "МСС И-107",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "НТС л+л.з 1-9н А-115",
-      "six": "НТС л+л.з 1-9н А-115",
-      "two": "",
-      "four": "НТС л+л.з 1-9н А-115",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1271-32-1": [
-    {
-      "three": "ИГ Д-510",
-      "dayofweek": "Monday",
-      "five": "Наука о земле л+пр Д-505",
-      "six": "Наука о земле л+пр Д-505",
-      "two": "Физика Д-112",
-      "four": "ОХ (л) Д-232",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Матем. пр Д-507",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "ОХ Д-320",
-      "four": "",
-      "seven": "",
-      "one": "Физика пр Д-110"
-    },
-    {
-      "three": "ИГ (л) Д-508",
-      "dayofweek": "Thursday",
-      "five": "Физика (л) Л-209",
-      "six": "",
-      "two": "",
-      "four": "Математика (л) Л-223",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Ин. Яз Г-каф",
-      "dayofweek": "Friday",
-      "five": "ТМ пр Л-105",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "ТМ (л) Л-105",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1261-10-1": [
-    {
-      "three": "Физ. Воспитание",
-      "dayofweek": "Monday",
-      "five": "ТМО л+л.з И-349",
-      "six": "ТМО л+л.з И-349",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "ОП Е-321"
-    },
-    {
-      "three": "МЖиГ Е-203",
-      "dayofweek": "Tuesday",
-      "five": "ОП (л) Л-223",
-      "six": "СМ Л-107а",
-      "two": "ЭиЭ Л-125",
-      "four": "ЭиЭ (л) Д-236",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "ТД л+пр А-25",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Физ. Воспитание",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "ТММ Е-318",
-      "dayofweek": "Friday",
-      "five": "ПАХТ (л) Е-203",
-      "six": "ПАХТ Е-109",
-      "two": "",
-      "four": "МЖиГ (л) Е-203",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1251-32-1": [
-    {
-      "three": "ТЗОС л И-345",
-      "dayofweek": "Monday",
-      "five": "ТЗОС пр И-345",
-      "six": "",
-      "two": "ТЗОС л И-345",
-      "four": "ТЗОС пр И-345",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "",
-      "dayofweek": "Wednesday",
-      "five": "ФХМА 1-9н (л) А-328",
-      "six": "",
-      "two": "ПАХТ кп Е-106",
-      "four": "БЖД (л) А-405",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "ОВОС пр И-345",
-      "four": "Физ. Воспитане",
-      "seven": "",
-      "one": "ОВОС (л) И-345"
-    },
-    {
-      "three": "ОТиЭН 1-9н л А-328, ОТиНЭ 10-18н пр А-328",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "БЖД А-114",
-      "four": "МБОБ 1-9н л А-328, МБОБ 10-18н пр А-328",
-      "seven": "",
-      "one": "БЖД А-114"
-    }
-  ],
-  "1271-11-1": [
-    {
-      "three": "РЯиКР Б-103",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Выс. мат (л) Л-223"
-    },
-    {
-      "three": "Ин. Яз Г-каф",
-      "dayofweek": "Tuesday",
-      "five": "МВ Е-226",
-      "six": "Философи Л-119",
-      "two": "Физ. Воспитание",
-      "four": "МВ (л) Д-240",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "ИГ Д-508",
-      "dayofweek": "Wednesday",
-      "five": "Физика Д-117",
-      "six": "",
-      "two": "",
-      "four": "ОиНХ Д-213",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Выс. мат Д-506",
-      "dayofweek": "Friday",
-      "five": "ОиНХ (л) Д-232",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "Философия (л) Л-217",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1251-32-2": [
-    {
-      "three": "ОХТ л А-213",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "ОХТ л А-213",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "",
-      "dayofweek": "Wednesday",
-      "five": "ФХМА 1-9н (л) А-328",
-      "six": "",
-      "two": "Эк. мон пр И-345",
-      "four": "ОХТ (л) А-405",
-      "seven": "",
-      "one": "Эк. мон л И-345"
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "ОВОС пр И-345",
-      "four": "Физ. Воспитане",
-      "seven": "",
-      "one": "ОВОС (л) И-345"
-    },
-    {
-      "three": "ОТиЭН 1-9н л А-328, ОТиНЭ 10-18н пр А-328",
-      "dayofweek": "Saturday",
-      "five": "ФХМА А-332",
-      "six": "ФХМА А-332",
-      "two": "",
-      "four": "МБОБ 1-9н л А-328, МБОБ 10-18н пр А-328",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1241-11-1": [
-    {
-      "three": "ОЗАПХП И-349",
-      "dayofweek": "Monday",
-      "five": "ПБ (л) И-349",
-      "six": "",
-      "two": "ТПвМ л+пр И-349",
-      "four": "ОЗАПХП И-349",
-      "seven": "ХР А-212",
-      "one": "ТПвМ л+пр И-349"
-    },
-    {
-      "three": "ПП И-336",
-      "dayofweek": "Tuesday",
-      "five": "Ин. Яз. Г-каф",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "Хим. реакторы (л) А-кр.зал",
-      "six": "",
-      "two": "ПиАТЭН И-336",
-      "four": "",
-      "seven": "",
-      "one": "ПиАТЭН И-336"
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "Право Д-410",
-      "four": "СУХТП (л) А-кр.зал",
-      "seven": "",
-      "one": "Право Д-410"
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1261-11-1": [
-    {
-      "three": "Физ. Воспитание",
-      "dayofweek": "Monday",
-      "five": "Выч. мат Д-504а",
-      "six": "",
-      "two": "Ин. Яз Г-каф",
-      "four": "",
-      "seven": "",
-      "one": "Органическая химия (л) Д-232"
-    },
-    {
-      "three": "МВ Е-116",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "Выч. мат (л) Д-236",
-      "four": "Выч. мат Д-520",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "МВ (л) Л-223",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "ФХ А-310",
-      "two": "",
-      "four": "",
-      "seven": "ФХ А-310",
-      "one": ""
-    },
-    {
-      "three": "Физ. Воспитание",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "ТТиТ (л) А-405",
-      "six": "ТТиТ (л) А-25",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "ДМ Е-321",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1241-13-1": [
-    {
-      "three": "",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "УИБ (л) И-107",
-      "two": "",
-      "four": "",
-      "seven": "УИБ (л) И-107",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "СЗИиВСМ 1-7н И-204",
-      "six": "СЗИиВСМ 1-7н И-204",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Wednesday",
-      "five": "СЗИиВСМ л.з И-204",
-      "six": "СЗИиВСМ л.з И-204",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "ЗИС (л) И-107",
-      "two": "",
-      "four": "",
-      "seven": "ЗИС (л) И-107",
-      "one": ""
-    },
-    {
-      "three": "УИБ л.з И-107",
-      "dayofweek": "Saturday",
-      "five": "ЗОС л.з И-107",
-      "six": "ЗОС л.з И-107",
-      "two": "УИБ л.з И-107",
-      "four": "ЗОС л.з И-107",
-      "seven": "",
-      "one": "УИБ л.з И-107"
-    }
-  ],
-  "1261-13-1": [
-    {
-      "three": "Физ. Воспитание",
-      "dayofweek": "Monday",
-      "five": "ТВиМС ДГТВиМС л+пр Д-507",
-      "six": "",
-      "two": "",
-      "four": "Ин. Яз Г-502",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "ЭиСТ (л) Л-127",
-      "six": "ДМ (л) Д-505",
-      "two": "",
-      "four": "ЭиСТ (л) Л-127",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "БЖД 2,4,6,8н л А-115",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "БЖД 10,12,14,16,18н А-134",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Физ. Воспитание",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "СиСПД л+л.з И-221",
-      "dayofweek": "Friday",
-      "five": "ТСО л+л.з П-7",
-      "six": "ТСО л+л.з П-7",
-      "two": "СиСПД л+л.з И-221",
-      "four": "ТЗИ л+л.з И-204",
-      "seven": "",
-      "one": "СиСПД л+л.з И-221"
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "Документоведение 1-9н л+пр И-211",
-      "six": "Документоведение 1-9н л+пр И-211",
-      "two": "",
-      "four": "Документоведение 1-9н л+пр И-211",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1251-34-1": [
-    {
-      "three": "ПАЗОС л И-345",
-      "dayofweek": "Monday",
-      "five": "ЭиППП 1-9н пр И-173",
-      "six": "",
-      "two": "ПАЗОС л И-345",
-      "four": "ЭиППП 1-9н (л) И-345",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "",
-      "dayofweek": "Wednesday",
-      "five": "ФХМА 1-9н (л) А-328",
-      "six": "",
-      "two": "",
-      "four": "БЖД (л) А-405",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "ОВОС пр И-345",
-      "four": "Физ. Воспитане",
-      "seven": "",
-      "one": "ОВОС (л) И-345"
-    },
-    {
-      "three": "ОТиЭН 1-9н л А-328, ОТиНЭ 10-18н пр А-328",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "БЖД А-114",
-      "four": "МБОБ 1-9н л А-328, МБОБ 10-18н пр А-328",
-      "seven": "",
-      "one": "БЖД А-114"
-    }
-  ],
-  "1251-12-1": [
-    {
-      "three": "ХСиЗ И-336",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "ХСиЗ И-336",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "ОХЗ И-336",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "ПЭД л+пр.з И-336",
-      "four": "ОХЗ И-336",
-      "seven": "",
-      "one": "ПЭД л+пр.з И-336"
-    },
-    {
-      "three": "ПНВ И-349",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "ХСиЗ (л) И-349",
-      "four": "ПНВ И-349",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1251-14-2": [
-    {
-      "three": "ОЭиРЭ л+пр+л.з Л-127",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "СПО Д-507а",
-      "two": "",
-      "four": "ОЭиРЭ л+пр+л.з Л-127",
-      "seven": "Спо Д-507а",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "Ози л+пр+л.з И-204",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "Ози л+пр+л.з И-204",
-      "four": "Ози л+пр+л.з И-204",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "МСС л.з И-204",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "МСС (л) И-204",
-      "four": "МСС И-204",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "САОД л.з+пр Д-507а",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
   "1261-34-1": [
     {
       "three": "Физ. Воспитание",
@@ -1673,158 +123,34 @@
       "one": ""
     }
   ],
-  "1271-12-2": [
-    {
-      "three": "",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "ИГ Д-506",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "ТКМ Е-116",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Физика 1-12н Д-117",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "Матем. Д-506",
-      "four": "ИТ Д-520",
-      "seven": "",
-      "one": "Матем Д-504а"
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "ИТ (л) Л-223",
-      "six": "Философия 1-12н Л-119",
-      "two": "",
-      "four": "Матем. (л) Л-209",
-      "seven": "Физика 1-15н пр Д-110",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "Физика (л) Л-209",
-      "six": "ТМ (л) Д-203",
-      "two": "Физ. Воспитание",
-      "four": "",
-      "seven": "ТМ Д-203",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1271-34-2": [
-    {
-      "three": "ОХ (л) Д-232",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "ИГ Д-510",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "Экология л И-207",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Матем. Пр Д-507",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "ДГНХ л.р Д-214",
-      "four": "ИГ Д-503",
-      "seven": "",
-      "one": "ДГНХ л.р Д-213"
-    },
-    {
-      "three": "Физика Д-117",
-      "dayofweek": "Thursday",
-      "five": "Информатика (л) Л-223",
-      "six": "ВМ Д-526",
-      "two": "ОиНХ,НХ 1-14н (л) Д-232",
-      "four": "Математика (л) Л-223",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "Физика (л) Л-209",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1261-32-1": [
+  "1261-13-2": [
     {
       "three": "Физ. Воспитание",
       "dayofweek": "Monday",
-      "five": "ДГХФ л+пр А-310",
-      "six": "",
+      "five": "ТВиМС ДГТВиМС л+пр Д-507",
+      "six": "ТВиМС ДГТВиМС л+пр Д-507",
+      "two": "",
+      "four": "Ин. Яз Г-502",
+      "seven": "",
+      "one": ""
+    },
+    {
+      "three": "",
+      "dayofweek": "Tuesday",
+      "five": "ЭиСТ (л) Л-127",
+      "six": "ДМ пр Д-229",
       "two": "",
       "four": "",
       "seven": "",
       "one": ""
     },
     {
-      "three": "Философия Д-219",
-      "dayofweek": "Tuesday",
-      "five": "ГГД пр Е-203",
-      "six": "",
-      "two": "ДМ Е-321",
-      "four": "ЭиЭ (л) Д-236",
-      "seven": "",
-      "one": "ЭиЭ Л-125"
-    },
-    {
-      "three": "",
+      "three": "БЖД 2,4,6,8н л А-134",
       "dayofweek": "Wednesday",
       "five": "",
       "six": "",
-      "two": "Ин. Яз Г-каф",
-      "four": "ТФ (л) А-51",
+      "two": "",
+      "four": "БЖД А-134",
       "seven": "",
       "one": ""
     },
@@ -1839,12 +165,74 @@
       "one": "Военная подготовка"
     },
     {
-      "three": "ТФ 10-18н А-51",
+      "three": "СиСПД л+л.з И-221",
       "dayofweek": "Friday",
+      "five": "ТСО л+л.з П-7",
+      "six": "ТСО л+л.з П-7",
+      "two": "СиСПД л+л.з И-221",
+      "four": "ТЗИ л+л.з И-204",
+      "seven": "",
+      "one": "СиСПД л+л.з И-221"
+    },
+    {
+      "three": "",
+      "dayofweek": "Saturday",
+      "five": "Документоведение 1-9н л+пр И-211",
+      "six": "Документоведение 1-9н л+пр И-211",
+      "two": "",
+      "four": "Документоведение 1-9н л+пр И-211",
+      "seven": "",
+      "one": ""
+    }
+  ],
+  "1261-10-2": [
+    {
+      "three": "Физ. Воспитание",
+      "dayofweek": "Monday",
+      "five": "ТМО л+л.з И-349",
+      "six": "ТМО л+л.з И-349",
+      "two": "",
+      "four": "",
+      "seven": "",
+      "one": "Ин. Яз Г-513"
+    },
+    {
+      "three": "МЖиГ Е-203",
+      "dayofweek": "Tuesday",
+      "five": "ОП (л) Л-223",
+      "six": "",
+      "two": "",
+      "four": "СМ (л) Л-105",
+      "seven": "",
+      "one": ""
+    },
+    {
+      "three": "ТД л+пр А-25",
+      "dayofweek": "Wednesday",
       "five": "",
       "six": "",
-      "two": "ТФ 10-18н А-51",
+      "two": "ТД л+пр А-25",
+      "four": "УЦП л+пр В-101",
+      "seven": "",
+      "one": ""
+    },
+    {
+      "three": "Физ. Воспитание",
+      "dayofweek": "Thursday",
+      "five": "",
+      "six": "",
+      "two": "",
       "four": "",
+      "seven": "",
+      "one": "Военная подготовка"
+    },
+    {
+      "three": "ТММ Е-318",
+      "dayofweek": "Friday",
+      "five": "ПАХТ (л) Е-203",
+      "six": "ПАХТ Е-109",
+      "two": "",
+      "four": "ТММ (л) Л-223",
       "seven": "",
       "one": ""
     },
@@ -1921,35 +309,97 @@
       "one": ""
     }
   ],
-  "1261-11-2": [
+  "1261-10-1": [
     {
       "three": "Физ. Воспитание",
       "dayofweek": "Monday",
-      "five": "Выч. мат Д-504а",
+      "five": "ТМО л+л.з И-349",
+      "six": "ТМО л+л.з И-349",
+      "two": "",
+      "four": "",
+      "seven": "",
+      "one": "ОП Е-321"
+    },
+    {
+      "three": "МЖиГ Е-203",
+      "dayofweek": "Tuesday",
+      "five": "ОП (л) Л-223",
+      "six": "СМ Л-107а",
+      "two": "ЭиЭ Л-125",
+      "four": "ЭиЭ (л) Д-236",
+      "seven": "",
+      "one": ""
+    },
+    {
+      "three": "",
+      "dayofweek": "Wednesday",
+      "five": "",
+      "six": "",
+      "two": "ТД л+пр А-25",
+      "four": "",
+      "seven": "",
+      "one": ""
+    },
+    {
+      "three": "Физ. Воспитание",
+      "dayofweek": "Thursday",
+      "five": "",
+      "six": "",
+      "two": "",
+      "four": "",
+      "seven": "",
+      "one": "Военная подготовка"
+    },
+    {
+      "three": "ТММ Е-318",
+      "dayofweek": "Friday",
+      "five": "ПАХТ (л) Е-203",
+      "six": "ПАХТ Е-109",
+      "two": "",
+      "four": "МЖиГ (л) Е-203",
+      "seven": "",
+      "one": ""
+    },
+    {
+      "three": "",
+      "dayofweek": "Saturday",
+      "five": "",
+      "six": "",
+      "two": "",
+      "four": "",
+      "seven": "",
+      "one": ""
+    }
+  ],
+  "1261-32-1": [
+    {
+      "three": "Физ. Воспитание",
+      "dayofweek": "Monday",
+      "five": "ДГХФ л+пр А-310",
+      "six": "",
+      "two": "",
+      "four": "",
+      "seven": "",
+      "one": ""
+    },
+    {
+      "three": "Философия Д-219",
+      "dayofweek": "Tuesday",
+      "five": "ГГД пр Е-203",
+      "six": "",
+      "two": "ДМ Е-321",
+      "four": "ЭиЭ (л) Д-236",
+      "seven": "",
+      "one": "ЭиЭ Л-125"
+    },
+    {
+      "three": "",
+      "dayofweek": "Wednesday",
+      "five": "",
       "six": "",
       "two": "Ин. Яз Г-каф",
-      "four": "",
+      "four": "ТФ (л) А-51",
       "seven": "",
-      "one": "Органическая химия (л) Д-232"
-    },
-    {
-      "three": "МВ Е-116",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "Выч. мат (л) Д-236",
-      "four": "Выч. мат Д-520",
-      "seven": "",
-      "one": "Выс. мат (л) Л-217"
-    },
-    {
-      "three": "ДМ (л) Л-223",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "ФХ А-310",
-      "two": "",
-      "four": "",
-      "seven": "ФХ А-310",
       "one": ""
     },
     {
@@ -1963,324 +413,14 @@
       "one": "Военная подготовка"
     },
     {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "ФХ (л) А-405",
-      "six": "ТТиТ (л) А-25",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "ОХ Д-325",
-      "four": "",
-      "seven": "",
-      "one": "ОХ Д-325"
-    }
-  ],
-  "1271-13-1": [
-    {
-      "three": "",
-      "dayofweek": "Monday",
-      "five": "Инф. 10-18н пр Д-229",
-      "six": "",
-      "two": "",
-      "four": "Инф. пр Д-229",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "Физ. Воспитание ",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Инф. (л) Д-507",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "Мат.анал. пр Д-507",
-      "four": "Ин. Яз Г-каф",
-      "seven": "",
-      "one": "Мат.анал. пр Д-504а"
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "Физика (л) Л-209",
-      "six": "Языки програм. (л) Д-507",
-      "two": "ОИБ пр И-107",
-      "four": "Языки програм. 1-14н пр Д-507а",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "ТиМП пр Д-504а",
-      "six": "Культ. пр Д-102",
-      "two": "Физ. Воспитание ",
-      "four": "ТиМП (л) Д-504а",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Физика Д-112,117"
-    }
-  ],
-  "1261-14-2": [
-    {
-      "three": "Физ. Воспитание ",
-      "dayofweek": "Monday",
-      "five": "СиСТО л+пр И-204",
-      "six": "ЭТК л+л.з П-7",
-      "two": "Ин. Яз Г-502",
-      "four": "",
-      "seven": "ЭТК л+л.з П-7",
-      "one": ""
-    },
-    {
-      "three": "ИТЗИ (л) И-204",
-      "dayofweek": "Tuesday",
-      "five": "ОССиО Д-507а",
-      "six": "ДГМ л+пр Д-507",
-      "two": "ИТЗИ (л) И-204",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "БЖД 2,4,6,8н (л) А-134",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "БЖД А-134",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Физ. Воспитание ",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "СиСПД л+л.з И-211, УБВС л+л.з П-7",
+      "three": "ТФ 10-18н А-51",
       "dayofweek": "Friday",
       "five": "",
       "six": "",
-      "two": "СиСПД л+л.з И-211",
-      "four": "УБВС л+л.з П-7",
-      "seven": "",
-      "one": "СиСПД л+л.з И-211"
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "Документоведение 1-9н л+пр И-211",
-      "six": "Документоведение 1-9н л+пр И-211",
-      "two": "",
-      "four": "Документоведение 1-9н л+пр И-211",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1251-11-1": [
-    {
-      "three": "",
-      "dayofweek": "Monday",
-      "five": "МССр 10-18н И-108",
-      "six": "",
-      "two": "ПАХТ Е-101",
-      "four": "МССр 10-18н И-108",
-      "seven": "",
-      "one": "ПАХТ Е-101"
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "МССр 10-18н (л) Л-223",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "ПАХТ 1-9н (л) Л-223",
-      "four": "ХСиЗотК л+пр И-351а",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "ХСиЗотК 1-4н л.з И-336, ОТЭНМ 5-6н И-255, ОТЭНМ 8-9н УОП, ОТЭНМ 10-11н И-232, ОТЭНМ 13-15н И-246",
-      "six": "ОТЭНМ (л) И-207",
-      "two": "Выч. мат Д-526",
-      "four": "ХСиЗотК 1-4н л.з И-336, ОТЭНМ 5-6н И-255, ОТЭНМ 8-9н УОП, ОТЭНМ 10-11н И-232, ОТЭНМ 13-15н И-246",
-      "seven": "",
-      "one": "Выч. мат (л) Л-223"
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "ДСиПЯ (л) А-405",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
+      "two": "ТФ 10-18н А-51",
       "four": "",
       "seven": "",
       "one": ""
-    }
-  ],
-  "1241-32-2": [
-    {
-      "three": "ЭиППП 1-9н пр И-173",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "ИТвХП Д-526",
-      "two": "",
-      "four": "ЭиППП (л) 1-5н И-345",
-      "seven": "ИТ Д-526",
-      "one": ""
-    },
-    {
-      "three": "ПЭ 1-6н л.з И-273",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "ПЭ 1-6н л.з И-273",
-      "four": "ПЭ 1-6н л.з И-273",
-      "seven": "",
-      "one": "ПЭ (л) И-211"
-    },
-    {
-      "three": "",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "МСС (л) И-209",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "МСС И-107",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "НТС л+л.з 1-9н А-115",
-      "six": "НТС л+л.з 1-9н А-115",
-      "two": "",
-      "four": "НТС л+л.з 1-9н А-115",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1251-13-2": [
-    {
-      "three": "ПЗИ пр И-204",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "ПЗИ (л) И-204",
-      "four": "ПЗИ пр И-204",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "КИС и УИПР по графику И-107",
-      "dayofweek": "Wednesday",
-      "five": "КИС и УИПР по графику И-107",
-      "six": "",
-      "two": "КИС 1-9н, УИПР 10-18н (л) И-204 ",
-      "four": "КИС и УИПР по графику И-107",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "МСС л.з И-204",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "МСС (л) И-204",
-      "four": "МСС И-204",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "АИС л+пр+л.з И-204",
-      "six": "АИС л+пр+л.з И-204",
-      "two": "ОПОИБ л+л.з И-204",
-      "four": "Физ. Воспитание",
-      "seven": "АИС л+пр+л.з И-204",
-      "one": "ОПОИБ л+л.з И-204"
     },
     {
       "three": "",
@@ -2355,464 +495,40 @@
       "one": ""
     }
   ],
-  "1251-14-1": [
+  "1261-11-2": [
     {
-      "three": "ОЭиРЭ л+пр+л.з Л-127",
+      "three": "Физ. Воспитание",
       "dayofweek": "Monday",
-      "five": "ОЭиРЭ л+пр+л.з Л-127",
-      "six": "СПО л Д-416а",
-      "two": "",
-      "four": "ОЭиРЭ л+пр+л.з Л-127",
-      "seven": "Спо Д-507а",
-      "one": ""
+      "five": "Выч. мат Д-504а",
+      "six": "",
+      "two": "Ин. Яз Г-каф",
+      "four": "",
+      "seven": "",
+      "one": "Органическая химия (л) Д-232"
     },
     {
-      "three": "",
+      "three": "МВ Е-116",
       "dayofweek": "Tuesday",
       "five": "",
       "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
+      "two": "Выч. мат (л) Д-236",
+      "four": "Выч. мат Д-520",
       "seven": "",
-      "one": "Военная подготовка"
+      "one": "Выс. мат (л) Л-217"
     },
     {
-      "three": "Ози л+пр+л.з И-204",
+      "three": "ДМ (л) Л-223",
       "dayofweek": "Wednesday",
       "five": "",
-      "six": "",
-      "two": "Ози л+пр+л.з И-204",
-      "four": "Ози л+пр+л.з И-204",
-      "seven": "",
+      "six": "ФХ А-310",
+      "two": "",
+      "four": "",
+      "seven": "ФХ А-310",
       "one": ""
     },
     {
-      "three": "МСС л.з И-204",
+      "three": "Физ. Воспитание",
       "dayofweek": "Thursday",
-      "five": "ОП И-204",
-      "six": "",
-      "two": "МСС (л) И-204",
-      "four": "ОП И-204",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "САОД л Д-507а",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "САОД л.з+пр Д-507а",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1241-34-2": [
-    {
-      "three": "",
-      "dayofweek": "Monday",
-      "five": "СОИУП пр Е-209",
-      "six": "ИТвХП (л) Д-526",
-      "two": "",
-      "four": "ИТ Д-519",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "МСС 1-5н И-108",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "УООС л+пр И-345",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "УООС л+пр И-345",
-      "four": "МСС (л) И-209",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "ТОГ 1-6н л.з И-173",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "ТОГ (л) И-173",
-      "four": "ТОГ 1-6н л.з И-173",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1271-15-2": [
-    {
-      "three": "Физика пр Д-110",
-      "dayofweek": "Monday",
-      "five": "Инф. 10-18н пр Д-229",
-      "six": "",
-      "two": "",
-      "four": "Инф. пр Д-229",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "ОИБ (л) И-211",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "Физ. Воспитание ",
-      "four": "ОИБ пр И-107",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Инф. (л) Д-507",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Ин. Яз Г-каф",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "Языки програм. (л) Д-505",
-      "six": "Культ. (л) Д-102а",
-      "two": "",
-      "four": "Языки програм. 1-14н пр Д-507а",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "ТиМП пр Д-504а",
-      "six": "ТиМП 1-9н пр Д-507а",
-      "two": "Физ. Воспитание ",
-      "four": "ТиМП (л) Д-504а",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "Физика Д-112,117",
-      "four": "",
-      "seven": "",
-      "one": "Физика Д-112,117"
-    }
-  ],
-  "1271-34-1": [
-    {
-      "three": "ОХ (л) Д-232",
-      "dayofweek": "Monday",
-      "five": "Наука о земле л+пр Д-505",
-      "six": "Наука о земле л+пр Д-506",
-      "two": "ОХ,ДГОХ Д-321",
-      "four": "",
-      "seven": "",
-      "one": "ОХ,ДГОХ Д-320"
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "Экология пр И-207",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Матем. Пр Д-507",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "ДГНХ л.р Д-214",
-      "four": "",
-      "seven": "",
-      "one": "ДГНХ л.р Д-213"
-    },
-    {
-      "three": "Физика Д-117",
-      "dayofweek": "Thursday",
-      "five": "Ин. Яз Г-каф",
-      "six": "ВМ Д-526",
-      "two": "ОиНХ,НХ 1-14н (л) Д-232",
-      "four": "Математика (л) Л-223",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "ТМ пр Л-105",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "ТМ (л) Л-105",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1271-14-1": [
-    {
-      "three": "ПЗИ пр И-204",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "ПЗИ (л) И-204",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "ОИБ пр И-107",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "ОИБ (л) И-211",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "ТЗИ л+л.з+пр П-7",
-      "dayofweek": "Wednesday",
-      "five": "АВС л+л.з П-7",
-      "six": "",
-      "two": "ТЗИ л+л.з+пр П-7",
-      "four": "АВС л+л.з П-7",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "Физика (л) Л-209",
-      "six": "ПЯМТ (л) Д-507",
-      "two": "",
-      "four": "ПЯМТ пр Д-507а",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "Физика пр Д-110",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "Ин. Яз Г-524",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Физика Д-112,117"
-    }
-  ],
-  "1271-11-2": [
-    {
-      "three": "РЯиКР Б-103",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": "Выс. мат (л) Л-223"
-    },
-    {
-      "three": "Ин. Яз Г-каф",
-      "dayofweek": "Tuesday",
-      "five": "МВ Е-226",
-      "six": "Философи Л-119",
-      "two": "Физ. Воспитание",
-      "four": "ТМ (л) Д-240",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "ИГ Д-508",
-      "dayofweek": "Wednesday",
-      "five": "Физика Д-117",
-      "six": "",
-      "two": "ТМ Л-107",
-      "four": "ОиНХ Д-213",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Выс. мат Д-506",
-      "dayofweek": "Friday",
-      "five": "ОиНХ (л) Д-232",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "Физика (л) Л-209",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1271-32-2": [
-    {
-      "three": "ВМ Д-511",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "Физика Д-112",
-      "four": "ОХ (л) Д-232",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "Экология пр И-345",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "Экология (л) И-207",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Матем. пр Д-507",
-      "dayofweek": "Wednesday",
-      "five": "",
-      "six": "",
-      "two": "ИГ Д-503",
-      "four": "",
-      "seven": "",
-      "one": "ПТК Д-104а"
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "Выч. Мат (л) Л-223",
-      "six": "",
-      "two": "",
-      "four": "Математика (л) Л-223",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "Ин. Яз Г-каф",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "Физ. Воспитание",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    }
-  ],
-  "1241-12-1": [
-    {
-      "three": "",
-      "dayofweek": "Monday",
-      "five": "",
-      "six": "",
-      "two": "ОСАПР л.з. И-351а",
-      "four": "",
-      "seven": "",
-      "one": "ОСАПР л.з. И-351а"
-    },
-    {
-      "three": "ОТЭ И-349",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "ОХЗ И-336",
-      "four": "ОТЭ И-349",
-      "seven": "",
-      "one": "ОХЗ И-336"
-    },
-    {
-      "three": "",
-      "dayofweek": "Wednesday",
       "five": "",
       "six": "",
       "two": "",
@@ -2821,21 +537,11 @@
       "one": "Военная подготовка"
     },
     {
-      "three": "БЖД 7-9н л.з. А-115",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "БЖД 7-9н л.з. А-115",
-      "four": "БЖД 7-9н л.з. А-115",
-      "seven": "БЖД 1-6н (л) А-134",
-      "one": "БЖД 7-9н л.з. А-115"
-    },
-    {
-      "three": "ОЗОС И-349",
+      "three": "",
       "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "ОЗОС И-349",
+      "five": "ФХ (л) А-405",
+      "six": "ТТиТ (л) А-25",
+      "two": "",
       "four": "",
       "seven": "",
       "one": ""
@@ -2845,72 +551,10 @@
       "dayofweek": "Saturday",
       "five": "",
       "six": "",
-      "two": "",
+      "two": "ОХ Д-325",
       "four": "",
       "seven": "",
-      "one": ""
-    }
-  ],
-  "1251-34-2": [
-    {
-      "three": "ПАЗОС пр И-345",
-      "dayofweek": "Monday",
-      "five": "ЭиППП 1-9н пр И-173",
-      "six": "",
-      "two": "ПАЗОС пр И-345",
-      "four": "ЭиППП 1-9н (л) И-345",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Tuesday",
-      "five": "",
-      "six": "",
-      "two": "",
-      "four": "Физ. Воспитание",
-      "seven": "",
-      "one": "Военная подготовка"
-    },
-    {
-      "three": "",
-      "dayofweek": "Wednesday",
-      "five": "ФХМА 1-9н (л) А-328",
-      "six": "",
-      "two": "ПАХТ кп Е-203",
-      "four": "ОХТ (л) А-405",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Thursday",
-      "five": "",
-      "six": "",
-      "two": "ОХТ А-213",
-      "four": "",
-      "seven": "",
-      "one": "ОХТ А-213"
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "",
-      "six": "",
-      "two": "ОВОС пр И-345",
-      "four": "Физ. Воспитане",
-      "seven": "",
-      "one": "ОВОС (л) И-345"
-    },
-    {
-      "three": "ОТиЭН 1-9н л А-328, ОТиНЭ 10-18н пр А-328",
-      "dayofweek": "Saturday",
-      "five": "ФХМА А-332",
-      "six": "ФХМА А-332",
-      "two": "",
-      "four": "МБОБ 1-9н л А-328, МБОБ 10-18н пр А-328",
-      "seven": "",
-      "one": ""
+      "one": "ОХ Д-325"
     }
   ],
   "1261-32-2": [
@@ -2975,92 +619,40 @@
       "one": ""
     }
   ],
-  "1271-14-2": [
+  "1261-11-1": [
     {
-      "three": "ПЗИ пр И-204",
+      "three": "Физ. Воспитание",
       "dayofweek": "Monday",
-      "five": "",
+      "five": "Выч. мат Д-504а",
       "six": "",
-      "two": "ПЗИ (л) И-204",
+      "two": "Ин. Яз Г-каф",
       "four": "",
       "seven": "",
-      "one": ""
+      "one": "Органическая химия (л) Д-232"
     },
     {
-      "three": "",
+      "three": "МВ Е-116",
       "dayofweek": "Tuesday",
-      "five": "ОИБ пр И-107",
+      "five": "",
       "six": "",
-      "two": "Физ. Воспитание",
-      "four": "ОИБ (л) И-211",
+      "two": "Выч. мат (л) Д-236",
+      "four": "Выч. мат Д-520",
       "seven": "",
       "one": ""
     },
     {
-      "three": "ТЗИ л+л.з+пр П-7",
+      "three": "МВ (л) Л-223",
       "dayofweek": "Wednesday",
-      "five": "АВС л+л.з П-7",
-      "six": "",
-      "two": "ТЗИ л+л.з+пр П-7",
-      "four": "АВС л+л.з П-7",
-      "seven": "",
+      "five": "",
+      "six": "ФХ А-310",
+      "two": "",
+      "four": "",
+      "seven": "ФХ А-310",
       "one": ""
     },
     {
-      "three": "",
+      "three": "Физ. Воспитание",
       "dayofweek": "Thursday",
-      "five": "ПЯМТ Д-505",
-      "six": "Культ. (л) Д-102а",
-      "two": "",
-      "four": "ПЯМТ пр Д-507а",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Friday",
-      "five": "Матем л+пр Д-505",
-      "six": "Матем л+пр Д-505",
-      "two": "Физ. Воспитание",
-      "four": "Ин. Яз Г-524",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Saturday",
-      "five": "",
-      "six": "",
-      "two": "Физика Д-112,117",
-      "four": "",
-      "seven": "",
-      "one": "Физика Д-112,117"
-    }
-  ],
-  "1241-11-2": [
-    {
-      "three": "ОЗАПХП И-349",
-      "dayofweek": "Monday",
-      "five": "ПБ (л) И-349",
-      "six": "",
-      "two": "ТПвМ л+пр И-349",
-      "four": "ОЗАПХП И-349",
-      "seven": "ХР А-212",
-      "one": "ТПвМ л+пр И-349"
-    },
-    {
-      "three": "ПП И-336",
-      "dayofweek": "Tuesday",
-      "five": "Ин. Яз. Г-каф",
-      "six": "",
-      "two": "",
-      "four": "",
-      "seven": "",
-      "one": ""
-    },
-    {
-      "three": "",
-      "dayofweek": "Wednesday",
       "five": "",
       "six": "",
       "two": "",
@@ -3070,23 +662,199 @@
     },
     {
       "three": "",
-      "dayofweek": "Thursday",
-      "five": "Хим. реакторы (л) А-кр.зал",
-      "six": "",
-      "two": "ПиАТЭН И-336",
+      "dayofweek": "Friday",
+      "five": "ТТиТ (л) А-405",
+      "six": "ТТиТ (л) А-25",
+      "two": "",
       "four": "",
       "seven": "",
-      "one": "ПиАТЭН И-336"
+      "one": ""
+    },
+    {
+      "three": "",
+      "dayofweek": "Saturday",
+      "five": "",
+      "six": "",
+      "two": "ДМ Е-321",
+      "four": "",
+      "seven": "",
+      "one": ""
+    }
+  ],
+  "1261-13-1": [
+    {
+      "three": "Физ. Воспитание",
+      "dayofweek": "Monday",
+      "five": "ТВиМС ДГТВиМС л+пр Д-507",
+      "six": "",
+      "two": "",
+      "four": "Ин. Яз Г-502",
+      "seven": "",
+      "one": ""
+    },
+    {
+      "three": "",
+      "dayofweek": "Tuesday",
+      "five": "ЭиСТ (л) Л-127",
+      "six": "ДМ (л) Д-505",
+      "two": "",
+      "four": "ЭиСТ (л) Л-127",
+      "seven": "",
+      "one": ""
+    },
+    {
+      "three": "БЖД 2,4,6,8н л А-115",
+      "dayofweek": "Wednesday",
+      "five": "",
+      "six": "",
+      "two": "БЖД 10,12,14,16,18н А-134",
+      "four": "",
+      "seven": "",
+      "one": ""
+    },
+    {
+      "three": "Физ. Воспитание",
+      "dayofweek": "Thursday",
+      "five": "",
+      "six": "",
+      "two": "",
+      "four": "",
+      "seven": "",
+      "one": "Военная подготовка"
+    },
+    {
+      "three": "СиСПД л+л.з И-221",
+      "dayofweek": "Friday",
+      "five": "ТСО л+л.з П-7",
+      "six": "ТСО л+л.з П-7",
+      "two": "СиСПД л+л.з И-221",
+      "four": "ТЗИ л+л.з И-204",
+      "seven": "",
+      "one": "СиСПД л+л.з И-221"
+    },
+    {
+      "three": "",
+      "dayofweek": "Saturday",
+      "five": "Документоведение 1-9н л+пр И-211",
+      "six": "Документоведение 1-9н л+пр И-211",
+      "two": "",
+      "four": "Документоведение 1-9н л+пр И-211",
+      "seven": "",
+      "one": ""
+    }
+  ],
+  "1261-14-2": [
+    {
+      "three": "Физ. Воспитание ",
+      "dayofweek": "Monday",
+      "five": "СиСТО л+пр И-204",
+      "six": "ЭТК л+л.з П-7",
+      "two": "Ин. Яз Г-502",
+      "four": "",
+      "seven": "ЭТК л+л.з П-7",
+      "one": ""
+    },
+    {
+      "three": "ИТЗИ (л) И-204",
+      "dayofweek": "Tuesday",
+      "five": "ОССиО Д-507а",
+      "six": "ДГМ л+пр Д-507",
+      "two": "ИТЗИ (л) И-204",
+      "four": "",
+      "seven": "",
+      "one": ""
+    },
+    {
+      "three": "БЖД 2,4,6,8н (л) А-134",
+      "dayofweek": "Wednesday",
+      "five": "",
+      "six": "",
+      "two": "",
+      "four": "БЖД А-134",
+      "seven": "",
+      "one": ""
+    },
+    {
+      "three": "Физ. Воспитание ",
+      "dayofweek": "Thursday",
+      "five": "",
+      "six": "",
+      "two": "",
+      "four": "",
+      "seven": "",
+      "one": "Военная подготовка"
+    },
+    {
+      "three": "СиСПД л+л.з И-211, УБВС л+л.з П-7",
+      "dayofweek": "Friday",
+      "five": "",
+      "six": "",
+      "two": "СиСПД л+л.з И-211",
+      "four": "УБВС л+л.з П-7",
+      "seven": "",
+      "one": "СиСПД л+л.з И-211"
+    },
+    {
+      "three": "",
+      "dayofweek": "Saturday",
+      "five": "Документоведение 1-9н л+пр И-211",
+      "six": "Документоведение 1-9н л+пр И-211",
+      "two": "",
+      "four": "Документоведение 1-9н л+пр И-211",
+      "seven": "",
+      "one": ""
+    }
+  ],
+  "1261-34-2": [
+    {
+      "three": "Физ. Воспитание",
+      "dayofweek": "Monday",
+      "five": "ФХ, ДГФХ А-310",
+      "six": "ФХ, ДГФХ А-310",
+      "two": "",
+      "four": "",
+      "seven": "",
+      "one": ""
+    },
+    {
+      "three": "Ин. Яз Г-каф",
+      "dayofweek": "Tuesday",
+      "five": "ПАХТ (л) Е-214",
+      "six": "ЭиЭ Л-127",
+      "two": "",
+      "four": "Философия (л) Д-236",
+      "seven": "ЭиЭ Л-127",
+      "one": ""
+    },
+    {
+      "three": "ДМ (л) Л-223",
+      "dayofweek": "Wednesday",
+      "five": "ТТиТ А-37",
+      "six": "",
+      "two": "Философия Д-104",
+      "four": "",
+      "seven": "",
+      "one": "Пахт Е-203"
+    },
+    {
+      "three": "Физ. Воспитание",
+      "dayofweek": "Thursday",
+      "five": "",
+      "six": "",
+      "two": "",
+      "four": "",
+      "seven": "",
+      "one": "Военная подготовка"
     },
     {
       "three": "",
       "dayofweek": "Friday",
-      "five": "СУХТП Б-201",
-      "six": "СУХТП Б-201",
-      "two": "",
-      "four": "СУХТП (л) А-кр.зал",
+      "five": "ФХ, ДГФХ 1-14н (л) А-328",
+      "six": "",
+      "two": "КХ А-240",
+      "four": "КХ (л) А-328",
       "seven": "",
-      "one": ""
+      "one": "КХ А-240"
     },
     {
       "three": "",
